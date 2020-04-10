@@ -1,4 +1,5 @@
 clc;clear;close;
+
 n=3
 disp("Enter elements for matrix A")
 for i=1:n
